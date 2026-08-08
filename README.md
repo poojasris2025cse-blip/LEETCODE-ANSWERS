@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/poojasris2025cse-blip/LEETCODE-ANSWERS/tree/master/0509-fibonacci-number) |
+| [2413-smallest-even-multiple](https://github.com/poojasris2025cse-blip/LEETCODE-ANSWERS/tree/master/2413-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/poojasris2025cse-blip/LEETCODE-ANSWERS/tree/master/1108-defanging-an-ip-address) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/poojasris2025cse-blip/LEETCODE-ANSWERS/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
