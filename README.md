@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/poojasris2025cse-blip/LEETCODE-ANSWERS/tree/master/0509-fibonacci-number) |
 | [2413-smallest-even-multiple](https://github.com/poojasris2025cse-blip/LEETCODE-ANSWERS/tree/master/2413-smallest-even-multiple) |
+| [3536-maximum-product-of-two-digits](https://github.com/poojasris2025cse-blip/LEETCODE-ANSWERS/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/poojasris2025cse-blip/LEETCODE-ANSWERS/tree/master/0796-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/poojasris2025cse-blip/LEETCODE-ANSWERS/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
